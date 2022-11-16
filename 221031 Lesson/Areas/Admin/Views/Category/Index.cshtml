@@ -1,0 +1,32 @@
+﻿@using _221031_Lesson.Areas.Admin.ViewModels.Category;
+@model CategoryIndexViewModel;
+
+
+<a class="btn btn-primary" asp-action="create" asp-controller="category" asp-area="admin">Create</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Settings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model.categories)
+        {
+            <tr>
+                <th scope="row">@category.Id</th>
+                <td>@category.Name</td>
+                <td>
+                    <a class="btn btn-danger" asp-action="delete" asp-controller="category" asp-area="admin" asp-route-id="@category.Id">Delete</a>
+                    <a class="btn btn-success" asp-action="update" asp-controller="category" asp-area="admin" asp-route-id="@category.Id">Edit</a>
+                    <a class="btn btn-warning" asp-action="details" asp-controller="category" asp-area="admin" asp-route-id="@category.Id">Details</a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+</table>

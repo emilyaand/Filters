@@ -1,0 +1,128 @@
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\appsettings.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.staticwebassets.runtime.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.exe
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.deps.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.runtimeconfig.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\221031 Lesson.pdb
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.AssemblyReference.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.AssemblyInfoInputs.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.AssemblyInfo.cs
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.CoreCompileInputs.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.RazorAssemblyInfo.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.RazorAssemblyInfo.cs
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\scopedcss\bundle\221031 Lesson.styles.css
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\scopedcss\projectbundle\221031 Lesson.bundle.scp.css
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\refint\221031 Lesson.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.pdb
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.genruntimeconfig.cache
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\ref\221031 Lesson.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Humanizer.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\emilyava\source\repos\221031 Lesson\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.CopyComplete
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\appsettings.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.staticwebassets.runtime.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.exe
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.deps.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.runtimeconfig.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\221031 Lesson.pdb
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Humanizer.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.AssemblyReference.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.AssemblyInfoInputs.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.AssemblyInfo.cs
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.CoreCompileInputs.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.RazorAssemblyInfo.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.RazorAssemblyInfo.cs
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\scopedcss\bundle\221031 Lesson.styles.css
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\scopedcss\projectbundle\221031 Lesson.bundle.scp.css
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.csproj.CopyComplete
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\refint\221031 Lesson.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.pdb
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\221031 Lesson.genruntimeconfig.cache
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\obj\Debug\net6.0\ref\221031 Lesson.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\emilyava\Desktop\project\221031 Lesson Fiorello\221031 Lesson\bin\Debug\net6.0\Newtonsoft.Json.dll

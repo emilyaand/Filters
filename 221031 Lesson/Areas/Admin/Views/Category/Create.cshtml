@@ -1,0 +1,15 @@
+﻿@using _221031_Lesson.Areas.Admin.ViewModels.Category;
+@model CategoryCreateViewModel;
+
+
+<form method="post" asp-action="create" asp-controller="category"  asp-area="admin" >
+    <div class="form-group">
+
+        <label asp-for="Name" class="control-label">Name</label>
+        <input asp-for="Name" required class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </div>
+    
+    <button type="submit" class="btn btn-primary" >Submit</button>
+</form>
